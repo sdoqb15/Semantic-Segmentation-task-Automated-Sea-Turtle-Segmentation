@@ -126,7 +126,7 @@ Congratulations on Reaching the Most Exciting Part! By now, you've hopefully com
 
 *(Note: Mean-shift and K-means, our traditional methods, can be tested directly without loading any models.)*
 
-For each deep learning model, there are two main testing cells:
+For each model, there are two main testing cells:
 1. **Testing mIoU on the Entire Test Set**: This part is time-consuming, and our code will print a log message after processing every 50 images.
 2. **Segmenting a Specific Image**: Here, you'll select an image and use the model to observe its segmentation results, complete with the output image and corresponding IoU values.
 
