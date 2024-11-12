@@ -6,7 +6,7 @@ The github URL: https://github.com/sdoqb15/Semantic-Segmentation-task-Automated-
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-All of our code is integrated within this Jupyter Notebook, which is organized into clear sections as follows:
+All of our code is integrated within a Jupyter Notebook, which is organized into clear sections as follows:
 #### **1. Preliminary Steps**
 ##### 1.1 Install necessary packges
 ##### 1.2 Import necessary liberaries
