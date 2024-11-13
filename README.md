@@ -1,6 +1,5 @@
 # Project Title: 
 ### Semantic Segmentation task: Automated Sea Turtle Segmentation
-The github URL: https://github.com/sdoqb15/Semantic-Segmentation-task-Automated-Sea-Turtle-Segmentation.git
 | Name                         |
 |------------------------------|
 | Xuda Chen                    |
