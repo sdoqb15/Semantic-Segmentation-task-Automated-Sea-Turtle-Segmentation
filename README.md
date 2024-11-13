@@ -3,7 +3,13 @@
 The github URL: https://github.com/sdoqb15/Semantic-Segmentation-task-Automated-Sea-Turtle-Segmentation.git
 # Group name:
 ### HHHD
-
+| Student Name                 | zID       |
+|------------------------------|-----------|
+| Xuda Chen                    | z5527738  |
+| Zhihong Jin                  | z5613826  |
+| Wenyu Yin                    | z5516670  |
+| Yizhuo Xu                    | z5460384  |
+| Hao Zhu                      | z5503328  |
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 All of our code is integrated within a Jupyter Notebook, which is organized into clear sections as follows:
